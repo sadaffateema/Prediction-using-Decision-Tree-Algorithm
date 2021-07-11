@@ -1,1 +1,2 @@
-# Prediction-using-Decision-Tree-Algorithm
+# Prediction using Decision Tree Algorithm
+A Decision Tree classifier visualized graphically.
